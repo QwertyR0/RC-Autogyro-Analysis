@@ -17,3 +17,8 @@ Bu yazılım, Moore Penrose tarafından geliştirilen gyroblade (eksesif) esneme
 Not 1: Araştırmalarım sonucunda Türkiye de RC Otogiro yapan kişi sayısının ya çok az ya da direkt olarak hiç olmadığını gördüm, ve Türkçe rc otogiro yapım kaynakları neredeyse hiç yok, bu yüzden Türkçe kaynak oluşturmak adına Türkçe açıklamalar ekledim. Umarım faydalı olur.
 
 Not 2: EN kısmındaki yazıyı translate atıp TR olarak yapıştırdım Türkçesi devrik olmuş olabilir.
+
+### References / Kaynakça:
+
+[Rotorcraft Flying Handbook for Gyroplane](https://skybrary.aero/sites/default/files/bookshelf/1456.pdf)
+[Radio controlled autogiro aerodynamic design](https://www.researchgate.net/publication/301588181_Radio_controlled_autogiro_aerodynamic_design)
