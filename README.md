@@ -7,7 +7,7 @@ This codebase will be a much simpler alternative to the gyroblade (excessive) fl
 WORK IN PROGRESS...
 
 I am currently writing a guide that is going to be the first written resource/documentation on RC autogyros in Turkey, although it is still in the drafting stage. Nevertheless, I've published this documentation, while it is still a work in progress. I do not hold the copyright to the photos and attachments included in the guide; for this reason, the images and attachments will be updated in future revisions.
-[RC_Autogyro_Guide](RC_Autogyro_Guide.pdf) You can read it here.
+[RC_Autogyro_Rehberi](RC_Autogyro_Rehberi.pdf) You can read it here.
 
 # (TR) RC Otogiroların Yarı-statik Analizi
 
